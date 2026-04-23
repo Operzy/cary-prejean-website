@@ -478,18 +478,18 @@ const VslFunnel = ({ setView }) => {
             <span className="w-2 h-2 rounded-full bg-accent relative flex items-center justify-center">
                <span className="absolute w-full h-full rounded-full bg-accent animate-ping opacity-75"></span>
             </span>
-            <span className="text-xs font-mono tracking-wider text-primary uppercase font-bold">Attention Coaches Doing $10k+/Month</span>
+            <span className="text-xs font-mono tracking-wider text-primary uppercase font-bold">For busy small business owners struggling with growing pains</span>
           </div>
 
-          <h1 className="hero-anim text-4xl md:text-5xl lg:text-6xl tracking-tight leading-[1.05] font-sans font-bold text-textMain mb-6">
-            We Build Paid Acquisition Systems In 7 Days That Help Coaches Consistently Generate 10–20+ Qualified Booked Calls Every Month, <br className="hidden lg:block" />
-            <span className="font-drama italic text-accent font-medium relative">
-               Without Setup Fees, Long Timelines, Or Guesswork.
+          <h1 className="hero-anim text-5xl md:text-6xl lg:text-7xl tracking-tight leading-[1.05] font-sans font-bold text-textMain mb-6">
+            Scale your business <br className="hidden lg:block" />
+            to the <span className="font-drama italic text-accent font-medium relative">
+               Next Level.
             </span>
           </h1>
 
           <p className="hero-anim text-lg md:text-xl text-textMuted font-sans max-w-2xl mx-auto mb-16 leading-relaxed">
-            We build reliable client acquisition systems for coaches who want predictable growth without expensive upfront fees, months of waiting, or having to learn and manage ads themselves.
+            Discover the three-step formula to increase profits & cash flow, save time & sanity, and come away with actionable strategies you can use now.
           </p>
 
           <div className="hero-anim w-full max-w-[1000px] mx-auto mb-12 relative group z-10">
